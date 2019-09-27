@@ -1,0 +1,9 @@
+[submodule "pjproject"]
+	path = pjproject
+	url = https://github.com/OpenIPC/pjproject.git
+[submodule "hi_35xx_sdk"]
+	path = hi_35xx_sdk
+	url = https://github.com/OpenIPC/hi_35xx_sdk.git
+[submodule "opus"]
+	path = opus
+	url = https://github.com/OpenIPC/opus.git
